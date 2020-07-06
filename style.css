@@ -1,0 +1,36 @@
+.headerText {
+  margin-top: 8px;
+  margin-left: 9px;
+  margin-bottom: 10px;
+  height: 45px;
+}
+@media only screen and (min-width: 1160px) {
+  #carouselExampleIndicators {
+    height: 94vh !important;
+  }
+}
+@media only screen and (min-width: 1300px) {
+  .carousel-text {
+    margin-bottom: 110px;
+  }
+}
+@media only screen and (min-width: 1500px) {
+  .carousel-text {
+    margin-bottom: 210px;
+  }
+}
+@media only screen and (min-width: 1550px) {
+  .carousel-text {
+    margin-bottom: 230px;
+  }
+}
+@media only screen and (min-width: 1600px) {
+  .carousel-text {
+    margin-bottom: 250px;
+  }
+}
+@media only screen and (min-width: 1670px) {
+  .carousel-text {
+    margin-bottom: 400px;
+  }
+}
